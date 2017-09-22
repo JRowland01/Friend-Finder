@@ -1,9 +1,10 @@
 
 .jumbotron {
-  color:#2020c8 !important; 
+  color:#2828f2!important; 
   background: url("./images/friends.png");
   background-size: cover; 
   background-repeat: no-repeat;
+  background-color:rgba(0,0,0,0.7);
   
  }
 
@@ -12,7 +13,11 @@ h1{
   font-family: 'Nobile', sans-serif;
 }
 
-.fa-heart-beat {
+.fa-heart{
+	color:red;
+}
+
+/*.fa-heart-beat {
   animation:fa-heart-beat 5s ease infinite;
   color:red;
 }
@@ -42,9 +47,9 @@ h1{
     transform:scale(1);
   }
 }
-
+*/
 .text-bkg{
-	background-color:rgba(255,255,255,0.4);
+	background-color:rgba(255,255,255,0.7);
 	width:100%;
 	border-radius:6px;
 	padding:10px;
@@ -53,6 +58,10 @@ h1{
 }
 
 .btn-primary{
-	background-color:#5757f9;
+	background-color:#5252ff;
 	border:none;
+}
+
+.btn-primary:hover, .btn-primary:active{
+	background-color: #4343d2;
 }
