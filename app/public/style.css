@@ -1,10 +1,58 @@
 
-/*.jumbotron {
-
-  color: #FFFFFF;important!
-  background-image("/images/mates.jpg");
+.jumbotron {
+  color:#2020c8 !important; 
+  background: url("./images/friends.png");
+  background-size: cover; 
   background-repeat: no-repeat;
-  background-size: cover;
+  
+ }
+
+
+h1{
+  font-family: 'Nobile', sans-serif;
 }
 
-*/
+.fa-heart-beat {
+  animation:fa-heart-beat 5s ease infinite;
+  color:red;
+}
+@keyframes fa-heart-beat {
+  0% {
+    transform:scale(1);
+  }
+  5% {
+    transform:scale(1.25);
+  }
+  20% {
+    transform:scale(1);
+  }
+  30% {
+    transform:scale(1);
+  }
+  35% {
+    transform:scale(1.25);
+  }
+  50% {
+    transform:scale(1);
+  }
+  55% {
+    transform:scale(1.25);
+  }
+  70% {
+    transform:scale(1);
+  }
+}
+
+.text-bkg{
+	background-color:rgba(255,255,255,0.4);
+	width:100%;
+	border-radius:6px;
+	padding:10px;
+	margin-bottom:10px;
+
+}
+
+.btn-primary{
+	background-color:#5757f9;
+	border:none;
+}
