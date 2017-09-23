@@ -2,7 +2,7 @@
 
 var friendsArray = [{
     "name": "Kel Smith",
-    "photo": "https://images.pexels.com/photos/101584/pexels-photo-101584.jpeg?w=540&h=360&auto=compress&cs=tinysrgb",
+    "photo": "http://oi67.tinypic.com/2eo901l.jpg",
     "scores": [
         "3",
         "5",
@@ -17,7 +17,7 @@ var friendsArray = [{
     ]
 }, {
     "name": "Cindy Liu",
-    "photo": "https://images.pexels.com/photos/157023/pexels-photo-157023.jpeg?w=540&h=360&auto=compress&cs=tinysrgb",
+    "photo": "http://oi63.tinypic.com/290ug3k.jpg",
     "scores": [
         "4",
         "2",
@@ -32,7 +32,7 @@ var friendsArray = [{
     ]
 }, {
     "name": "Sarah Bailey",
-    "photo": "https://images.pexels.com/photos/87293/pexels-photo-87293.jpeg?w=540&h=360&auto=compress&cs=tinysrgb",
+    "photo": "http://oi63.tinypic.com/15pr2w8.jpg",
     "scores": [
         "3",
         "3",
@@ -47,7 +47,7 @@ var friendsArray = [{
     ]
 }, {
     "name": "Greg Marshall",
-    "photo": "https://images.pexels.com/photos/78225/pexels-photo-78225.jpeg?w=540&h=360&auto=compress&cs=tinysrgb",
+    "photo": "http://oi67.tinypic.com/2hd65hj.jpg",
     "scores": [
         "3",
         "3",
@@ -62,7 +62,7 @@ var friendsArray = [{
     ]
 }, {
     "name": "Amber Chin",
-    "photo": "https://images.pexels.com/photos/253758/pexels-photo-253758.jpeg?w=540&h=360&auto=compress&cs=tinysrgb",
+    "photo": "http://oi63.tinypic.com/2drw0b4.jpg",
     "scores": [
         "1",
         "1",
@@ -77,7 +77,7 @@ var friendsArray = [{
     ]
 }, {
     "name": "Emily Dourdan",
-    "photo": "https://images.pexels.com/photos/58020/pexels-photo-58020.jpeg?w=540&h=360&auto=compress&cs=tinysrgbb",
+    "photo": "http://oi66.tinypic.com/28bqq6q.jpg",
     "scores": [
         "4",
         "4",
@@ -92,7 +92,7 @@ var friendsArray = [{
     ]
 }, {
     "name": "Brittany Baker",
-    "photo": "https://images.pexels.com/photos/218966/pexels-photo-218966.jpeg?w=540&h=360&auto=compress&cs=tinysrgb",
+    "photo": "http://oi66.tinypic.com/2ry6fdl.jpg",
     "scores": [
         "3",
         "4",
@@ -106,8 +106,8 @@ var friendsArray = [{
         "1"
     ]
 }, {
-    "name": "Tasha Cobbs",
-    "photo": "https://images.pexels.com/photos/57862/pexels-photo-57862.jpeg?w=540&h=360&auto=compress&cs=tinysrgb",
+    "name": "Lisa Taylor",
+    "photo": "http://oi64.tinypic.com/wtc674.jpg",
     "scores": [
         "4",
         "4",
@@ -122,7 +122,7 @@ var friendsArray = [{
     ]
 }, {
     "name": "Brad Turner",
-    "photo": "https://images.pexels.com/photos/116233/pexels-photo-116233.jpeg?w=540&h=360&auto=compress&cs=tinysrgb",
+    "photo": "http://oi63.tinypic.com/2lmnkn6.jpg",
     "scores": [
         "2",
         "1",
@@ -132,12 +132,12 @@ var friendsArray = [{
         "1",
         "3",
         "1",
-        "1",
-        "1"
+        "3",
+        "2"
     ]
 }, {
-    "name": "Travis Jackson",
-    "photo": "https://images.pexels.com/photos/106193/pexels-photo-106193.jpeg?w=540&h=360&auto=compress&cs=tinysrgb",
+    "name": "Mike Abadi",
+    "photo": "http://oi65.tinypic.com/2hd1suw.jpg",
     "scores": [
         "3",
         "4",
@@ -146,8 +146,8 @@ var friendsArray = [{
         "5",
         "1",
         "1",
-        "2",
-        "3",
+        "1",
+        "1",
         "3"
     ]
 }];

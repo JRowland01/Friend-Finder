@@ -13,6 +13,16 @@ h1{
   font-family: 'Nobile', sans-serif;
 }
 
+.headingText{
+  color:#2828f2 !important;
+}
+
+.surveyOutline{
+  background-color:#EDEEF6;
+  border-radius:8px;
+  padding:20px;
+}
+
 .fa-heart{
 	color:red;
 }
